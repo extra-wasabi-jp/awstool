@@ -1,0 +1,13 @@
+aws:
+  endpoint-url: http://localhost:8000
+
+pydydump:
+  table-name: dev-scientia
+  nullstr: null
+  fields:
+  - Pkey
+  - Skey
+  - engineer_key
+  - engineer_name_kanji
+  - engineer_name_kana
+  - engineer_name_romaji
